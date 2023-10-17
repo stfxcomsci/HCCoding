@@ -434,7 +434,7 @@ while loopExit:
           backButton2Green = red
           hover2Back = True
       elif hover2Back == False:
-        BackButton2Green = green
+        backButton2Green = green
 
       #answer buttons
       if mousePosition[0] <= 375 and mousePosition[0] >= 125 and mousePosition[
